@@ -290,4 +290,4 @@ Error generating stack: `+i.message+`
         * {
           cursor: none !important;
         }
-      `})]})},Ub=new j2,Vb=()=>c.jsx(R2,{client:Ub,children:c.jsxs(i2,{children:[c.jsx(Bb,{}),c.jsx(rx,{}),c.jsx(_x,{}),c.jsx(hb,{children:c.jsxs(db,{children:[c.jsx(Qa,{path:"/",element:c.jsx(Fb,{})}),c.jsx(Qa,{path:"*",element:c.jsx($b,{})})]})})]})});Ch(document.getElementById("root")).render(c.jsx(Vb,{}));
+      `})]})},Ub=new j2,Vb=()=>c.jsx(R2,{client:Ub,children:c.jsxs(i2,{children:[c.jsx(Bb,{}),c.jsx(rx,{}),c.jsx(_x,{}),c.jsx(hb,{basename:"/danish-portfolio/",children:c.jsxs(db,{children:[c.jsx(Qa,{path:"/",element:c.jsx(Fb,{})}),c.jsx(Qa,{path:"*",element:c.jsx($b,{})})]})})]})});Ch(document.getElementById("root")).render(c.jsx(Vb,{}));
